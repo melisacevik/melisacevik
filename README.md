@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on JavaScript,React,Node.js,React Native👾<br>👯‍♀️ I'm looking to colloborate on React 🦄<br>🤝 I'm looking for help with CSS 🧞‍♀️<br>👩🏻‍💻 I'm currently learning JavaScript 🧠<br>
+🔭 I'm currently working on Java👾<br>👯‍♀️ I'm looking to colloborate on Java 🦄<br>🤝 I'm looking for help with JS && CSS 🧞‍♀️<br>👩🏻‍💻 I'm currently learning JavaScript 🧠<br>
 
 
 ## 🌐 Socials:
