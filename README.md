@@ -12,6 +12,12 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=melisacevik&theme=synthwave&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=melisacevik&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+![github contribution grid snake animation](https://raw.githubusercontent.com/melisacevik/melisacevik/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/melisacevik/melisacevik/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
+![](https://komarev.com/ghpvc/?username=melisacevik)
+
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
