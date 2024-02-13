@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on Python, Java 👾<br>👯‍♀️ I'm looking to colloborate on Java 🦄<br>🤝 I'm looking for help with JS && CSS 🧞‍♀️<br>👩🏻‍💻 I'm currently learning Python 🧠<br> 📝 I'm writing blog posts. https://medium.com/@melisacevik13 ✍🏻
+🔭 I'm currently working on Python, CRM 👾<br>👯‍♀️ I'm looking to colloborate on Python, Java 🦄<br>👩🏻‍💻 I'm currently learning Machine Learning 🧠<br> 📝 I'm writing blog posts. https://medium.com/@melisacevik13 ✍🏻
 
 
 ## 🌐 Socials:
