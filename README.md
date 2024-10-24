@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on Python, Machine Learning 👾<br>👯‍♀️ I'm looking to colloborate on Python, Java 🦄<br>👩🏻‍💻 I'm currently learning Machine Learning 🧠<br> 📝 I'm writing blog posts. https://medium.com/@melisacevik13 ✍🏻
+🔭 I'm currently working on Deep Learning, GenerativeAI 👾<br>👯‍♀️ I'm looking to colloborate on Python, ML 🦄<br>👩🏻‍💻 I'm currently learning Machine Learning 🧠<br> 📝 I'm writing blog posts. https://medium.com/@melisacevik13 ✍🏻
 
 
 ## 🌐 Socials:
